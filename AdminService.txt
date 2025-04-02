@@ -2,7 +2,7 @@ Add and Remove Users.
 Change the roles.
 
 Manage the database.
-closing the DataBase connection.
+closing the mayank DataBase connection.
 
 Change 1
 Change 2 in the mayank database.
