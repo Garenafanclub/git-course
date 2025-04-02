@@ -1,8 +1,4 @@
 Add and Remove Users.
-Change the roles.
 
 Manage the database.
 closing the connnection.
-
-Change 1
-Change 2
